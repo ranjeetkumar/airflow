@@ -1,0 +1,4 @@
+venv
+logs
+pg_data
+dags/__pycache__
